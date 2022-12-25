@@ -1,4 +1,5 @@
-﻿// My second change.
+﻿// Testing main branch policy.
+// My second change.
 using System.Net.Mime;
 using Ardalis.ListStartupServices;
 using BlazorAdmin;
