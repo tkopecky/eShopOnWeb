@@ -3,13 +3,13 @@
 changelog:
   exclude:
     labels:
-    - wontfix
+    - wontfi
     authors:
     - tkopecky
   categories:
     - title: Breaking Changes 🛠
       labels:
-        - Semver-Major
+        - wontfix
         - breaking-change
     - title: Exciting New Features 🎉
       labels:
